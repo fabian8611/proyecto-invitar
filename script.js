@@ -6,7 +6,7 @@ let fontSize = 2
 let messages = [
   'no puedo ',
   'otro dia',
-  'no vale decir que no',
+  'prohibido decir no',
   'Piensalo',
   'como que no ?',
 ]
